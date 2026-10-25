@@ -9,3 +9,4 @@ if r%2==0:
 a//=10
 if a%2==0:
     print("the number is even :",a)
+    
