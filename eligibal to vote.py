@@ -7,3 +7,4 @@ elif 110>age>60:
     print("senior citizan:")
 else:
     print("invalid age")
+    
