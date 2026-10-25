@@ -12,3 +12,4 @@ if s==n:
     print("the number is palindrome number :",s)
 else:
     print("the number is not palindrome number :",s)
+    
