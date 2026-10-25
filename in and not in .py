@@ -7,3 +7,4 @@ if 'c' in s:
     print("c is present in s")
 else:
     print("c is not present in s")
+    
