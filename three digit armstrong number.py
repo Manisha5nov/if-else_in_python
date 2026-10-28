@@ -11,3 +11,4 @@ if s==n:
     print("the number is armstrong number :")
 else:
     print("the number is not armstrong number :")
+    
