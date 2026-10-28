@@ -6,3 +6,4 @@ elif s_p<c_p:
     print("loss =",c_p-s_p)
 else:
     print("not profit and not loss")
+    
