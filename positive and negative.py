@@ -5,3 +5,4 @@ elif a<0:
     print("negative")
 else:
     print("value is zero")
+    
