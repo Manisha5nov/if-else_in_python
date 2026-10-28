@@ -20,4 +20,5 @@ elif (a==c and c!=b):
 elif (b==c and c!=a):
     print(f"{b} and {c} are equal and {a} is smallest")
 elif (a==b and b==c):
-    print("All three numbers are equal")    
+    print("All three numbers are equal")
+    
