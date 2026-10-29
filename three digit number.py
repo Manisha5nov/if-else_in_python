@@ -4,3 +4,4 @@ if a>99 and a<1000:
 else:
     print("the number is not three digit number :")
     
+    
